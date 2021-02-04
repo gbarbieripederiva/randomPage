@@ -1,0 +1,10 @@
+{
+  "Login":"Login",
+  "Username":"Username",
+  "Password":"Password",
+  "Cancel":"Cancel",
+  "CreateAccount":"Create account",
+  "Firstname":"Firstname",
+  "Surname":"Surname",
+  "RepeatPassword":"Repeat password"
+}

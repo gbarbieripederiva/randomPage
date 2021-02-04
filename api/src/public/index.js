@@ -1,0 +1,12 @@
+fetch("/api/user",{
+    method:"POST",
+    headers:{
+        "content-type":"application/vnd.create.user+json"
+    },
+    body:JSON.stringify({
+        username:"username_guido",
+        password:"password_guido",
+        firstname:"firstname_guido",
+        surname:"surname_guido",
+    })
+})
